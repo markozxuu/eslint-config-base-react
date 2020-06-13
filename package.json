@@ -1,9 +1,18 @@
 {
   "name": "eslint-config-base-react",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "main": "index.js",
-  "files": ["index.js", "prettier.config.js", "prettier.js"],
-  "keywords": ["eslint", "eslint-config", "prettier", "prettier-config"],
+  "files": [
+    "index.js",
+    "prettier.config.js",
+    "prettier.js"
+  ],
+  "keywords": [
+    "eslint",
+    "eslint-config",
+    "prettier",
+    "prettier-config"
+  ],
   "repository": "git@github.com:markozxuu/eslint-config-base-react.git",
   "author": "Markoz Peña <markdrew53@gmail.com>",
   "license": "MIT",
@@ -25,5 +34,8 @@
     "eslint-plugin-react": "^7.20.0",
     "eslint-plugin-react-hooks": "^4.0.4",
     "prettier": "^2.0.5"
+  },
+  "devDependencies": {
+    "@azz/prettier-config": "^1.0.0"
   }
 }
