@@ -4,8 +4,7 @@
   "main": "index.js",
   "files": [
     "index.js",
-    "prettier.config.js",
-    "prettier.js"
+    ".prettierrc.js"
   ],
   "keywords": [
     "eslint",
