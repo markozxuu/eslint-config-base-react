@@ -1,5 +1,1 @@
-const prettierConfig = {
-  singleQuote: true
-}
-
-module.exports = prettierConfig;
+module.exports = require('@azz/prettier-config');
